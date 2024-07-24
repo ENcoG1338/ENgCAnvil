@@ -1,0 +1,5 @@
+name: ENgCAnvil
+version: '${project.version}'
+main: spigot.encog.canvil.engcanvil.ENgCAnvil
+api-version: '1.16'
+authors: [ encog ]
